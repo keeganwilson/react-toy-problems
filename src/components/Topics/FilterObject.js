@@ -40,7 +40,6 @@ const FilterObject = () => {
       }
     }
     setFilteredArray(filtered);
-    console.log(filtered);
   };
 
   const submitHandler = () => {
